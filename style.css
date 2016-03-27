@@ -88,6 +88,10 @@ footer {
     background: #f9f9f9;
     padding: 15px;
     height: 20px;
+    bottom: 0px;
+
+position: fixed;
+
 }
 
 .footerleft
@@ -129,5 +133,16 @@ footer {
 }
 
 #connect a, .archives > li > span {
-  background: url(../Image/iconsfooter.png) no-repeat;
+  background: url(./Image/iconsfooter.png) no-repeat;
 }
+#main{
+     float:center;
+}
+#center{
+     width:600px;
+     background:#FFF;
+     color:#000;
+     height:600px;
+     float:center;   
+     text-align:center; 
+     line-height:600px;
