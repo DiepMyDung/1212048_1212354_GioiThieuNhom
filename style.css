@@ -1,0 +1,148 @@
+/*==Reset CSS==*/
+* {
+  margin: 0;
+  padding: 0;
+}
+ 
+/*==Style co b?n cho website==*/
+body {
+  font-family: sans-serif;
+  color: #333;
+}
+
+/*==Style cho topmenu===*/
+#topmenu ul {
+  background: #1F568B;
+  list-style-type: none;
+  text-align: center;
+  color: white;
+}
+#topmenu a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+
+#topmenu a:hover {
+  background: #F1F1F1;
+  color: #333;
+}
+
+#topmenu li {
+  color: #f1f1f1;
+  display: inline-block;
+  width: 157px;
+  height: 100%;
+  line-height: 40px;
+  margin-left: -5px;
+}
+
+/*==Style cho slidebar===*/
+#sidebar {
+    position: absolute;
+    background: #1F568B;
+    width: 270px;
+    height: 100%;
+    /*box-sizing: border-box;
+   -moz-box-sizing: border-box;*/
+}
+#sidebar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#sidebar li {
+    margin: 0;
+}
+#sidebar a {
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: 100;
+    color: white;
+    text-decoration: none;
+    display: block;
+    border-bottom: 1px solid #EEEEEE;
+	height: 14px;
+    /*-webkit-transition:  background 0.3s ease-in-out;
+    -moz-transition:  background 0.3s ease-in-out;
+    -ms-transition:  background 0.3s ease-in-out;
+    -o-transition:  background 0.3s ease-in-out;
+    transition:  background 0.3s ease-in-out;*/
+}
+
+#sidebar a:hover {
+  background: #F1F1F1;
+  color: #333;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:100px;
+    background: #1F568B;
+}
+
+footer {
+    background: #f9f9f9;
+    padding: 15px;
+    height: 20px;
+    bottom: 0px;
+
+position: fixed;
+
+}
+
+.footerleft
+{
+  float: left; 
+}
+
+.footerright
+{
+  float: right; 
+}
+
+}
+#connect {
+  float: right;
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#connect a {
+  float: left;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  margin: 0 15px;
+}
+#connect a.googleplus {
+  background-position: 0 0;
+}
+#connect a.mail {
+  background-position: 0 -40px;
+}
+#connect a.facebook {
+  background-position: 0 -80px;
+}
+#connect a.twitter {
+  background-position: 0 -120px;
+}
+
+#connect a, .archives > li > span {
+  background: url(./Image/iconsfooter.png) no-repeat;
+}
+#main{
+     float:center;
+}
+#center{
+     width:600px;
+     background:#FFF;
+     color:#000;
+     height:600px;
+     float:center;   
+     text-align:center; 
+     line-height:600px;
