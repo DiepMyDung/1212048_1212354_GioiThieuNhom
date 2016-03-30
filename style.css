@@ -43,8 +43,6 @@ body {
     background: #1F568B;
     width: 270px;
     height: 100%;
-    /*box-sizing: border-box;
-   -moz-box-sizing: border-box;*/
 }
 #sidebar ul {
     margin: 0;
@@ -62,12 +60,7 @@ body {
     text-decoration: none;
     display: block;
     border-bottom: 1px solid #EEEEEE;
-	height: 14px;
-    /*-webkit-transition:  background 0.3s ease-in-out;
-    -moz-transition:  background 0.3s ease-in-out;
-    -ms-transition:  background 0.3s ease-in-out;
-    -o-transition:  background 0.3s ease-in-out;
-    transition:  background 0.3s ease-in-out;*/
+	  height: 14px;
 }
 
 #sidebar a:hover {
@@ -75,6 +68,79 @@ body {
   color: #333;
 }
 
+/*==Style cho body===*/
+#groupname {
+  margin: 27px 89px 27px;
+  bottom: 100px;
+  width: 613px;
+  float: right;
+}
+
+#groupname h1 {
+  color: #1F568B;
+  font-family: fantasy;
+  font-size: 300%;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px #EEEEEE;
+}
+
+#imagegroup {
+  float: right;
+  width: 73.75%;
+  max-width: 100%;
+}
+#member {
+    height: 270px;
+    bottom: 0;
+    width: 80%;
+    float: right;
+}
+#mb1212354 {
+        width: 40%;
+    height: 100%;
+    position: absolute;
+}
+#img_1212354 {
+    width: 50%;
+    position: absolute;
+}
+.img1 {
+    max-width: 100%;
+    width: 100%;
+}
+#info_1212354{
+    width: 50%;
+    float: right;
+}
+#info_1212354 ul {
+    padding: 15px;
+    margin: 10px;
+}
+
+#mb1212048 {
+    width: 50%;
+    height: 100%;
+  float: right;
+}
+#img_1212048 {
+    width: 50%;
+    position: absolute;
+}
+
+#info_1212048{
+    width: 50%;
+    float: right;
+}
+#info_1212048 ul {
+    padding: 15px;
+    margin: 10px;
+}
+.img2 {
+        max-width: 100%;
+    width: 40%;
+}
+
+/*==Style cho footer===*/
 #footer {
     position: absolute;
     bottom: 0;
