@@ -74,6 +74,8 @@ body {
   bottom: 100px;
   width: 613px;
   float: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #groupname h1 {
@@ -88,6 +90,7 @@ body {
   float: right;
   width: 73.75%;
   max-width: 100%;
+  margin-bottom: 15px;
 }
 #member {
     height: 270px;
@@ -96,12 +99,12 @@ body {
     float: right;
 }
 #mb1212354 {
-        width: 40%;
-    height: 100%;
+    width: 40%;
+    height: 45%;
     position: absolute;
 }
 #img_1212354 {
-    width: 50%;
+    width: 41%;
     position: absolute;
 }
 .img1 {
@@ -109,7 +112,7 @@ body {
     width: 100%;
 }
 #info_1212354{
-    width: 50%;
+    width: 57%;
     float: right;
 }
 #info_1212354 ul {
@@ -118,17 +121,19 @@ body {
 }
 
 #mb1212048 {
-    width: 50%;
+    width: 55%;
     height: 100%;
-  float: right;
+    float: right;
 }
 #img_1212048 {
-    width: 50%;
+    width: 555px;
     position: absolute;
+    height: 230px;
+    margin-left: 25px;
 }
 
 #info_1212048{
-    width: 50%;
+    width: 58%;
     float: right;
 }
 #info_1212048 ul {
