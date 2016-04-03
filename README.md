@@ -20,26 +20,29 @@ Yêu cầu **GIT**:
 
 Yêu cầu **thiết kế**:
 
-* [ ] Thiết kế theo table.
+* [x] Thiết kế theo table.
 * [x] Thiết kế với div.
 * [x] Thiết kế nâng cao
     * [x] Navigation, header, footer, sidebar.
     * [x] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
-    * [ ] IE
-    * [ ] Firefox
-    * [ ] Chrome
-    * [ ] Icon, màu sắc,...
+* [x] Thiết kế chạy trên nhiều trình duyệt
+    * [x] IE
+    * [x] Firefox
+    * [x] Chrome
+    * [] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
-
+- Định dạng chữ p:first-letter
+- Định dạng các ký hiệu trong ul; thuộc tính title trong thẻ img.
+- Tạo các nút liên kết GooglePlus, Facebook, Gmail.
+- Tạo 2 trang Liên hệ và Giới thiệu sơ lược.
 
 ## Demo
 
 Link ảnh GIF demo ứng dụng:
 
-![Video Walkthrough](demo.gif)
+![Video Walkthrough](GIF_1212048_1212354.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 

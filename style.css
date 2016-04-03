@@ -17,6 +17,12 @@ div{
 -moz-box-sizing: border-box;    /* Firefox, other Gecko */
 box-sizing: border-box;         /* Opera/IE 8+ */
 }
+
+@media only screen and (min-width: 320px) and (max-width: 860px)
+   body {
+      background: #e7e7e7;
+   }
+}
 .banner img{
   width: 100%;
   height: auto;
@@ -264,4 +270,3 @@ padding:20px 20px;
     width: 65%;
   }
 
-  
