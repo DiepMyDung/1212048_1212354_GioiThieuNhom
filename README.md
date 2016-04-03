@@ -1,30 +1,30 @@
-# UDPT_BT1_1212048_1212354
-Đây là repository phục vụ cho bài tập 1 (nhóm 2 người) môn Ứng dụng phân tán, lớp TH2013/01, GV Hoàng Anh Tú. 
-# BT-UDPT-1 - *Name of your app*
+# BT-UDPT-1 - *Design Assignment*
 
-**Name of your app** là một bài tập 1 tại môn UDPT.
+**Design Assignment** là một bài tập 1 tại môn UDPT.
 
-Thành viên: **Tên và mã số sinh viên thành viên**
+Thành viên: 
+**1212048 - Diệp Mỹ Dung**
+**1212354 - Nguyễn Minh Tân**
 
-URL: **URL hosting của bài tập**
+URL: **https://github.com/DiepMyDung/UDPT_BT1_1212048_1212354**
 
 ## Yêu cầu
 
 Yêu cầu **GIT**:
 
-* [ ] Có sử dụng GIT.
+* [x] Có sử dụng GIT.
 * [ ] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
-* [x] Sử dụng GIT theo Feature Branch Workflow.
-* [ ] Sử dụng GIT theo Gitflow Workflow.
+* [ ] Sử dụng GIT theo Feature Branch Workflow.
+* [x] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **thiết kế**:
 
-* [x] Thiết kế theo table.
-* [ ] Thiết kế với div.
-* [ ] Thiết kế nâng cao
-    * [ ] Navigation, header, footer, sidebar.
-    * [ ] Các hiệu ứng: hover, focus,...
+* [ ] Thiết kế theo table.
+* [x] Thiết kế với div.
+* [x] Thiết kế nâng cao
+    * [x] Navigation, header, footer, sidebar.
+    * [x] Các hiệu ứng: hover, focus,...
 * [ ] Thiết kế chạy trên nhiều trình duyệt
     * [ ] IE
     * [ ] Firefox
