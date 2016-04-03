@@ -4,6 +4,7 @@
 
 Thành viên: 
 **1212048 - Diệp Mỹ Dung**
+
 **1212354 - Nguyễn Minh Tân**
 
 URL: **https://github.com/DiepMyDung/UDPT_BT1_1212048_1212354**
@@ -12,7 +13,7 @@ URL: **https://github.com/DiepMyDung/UDPT_BT1_1212048_1212354**
 
 Yêu cầu **GIT**:
 
-* [x] Có sử dụng GIT.
+* [ ] Có sử dụng GIT.
 * [ ] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
@@ -29,7 +30,7 @@ Yêu cầu **thiết kế**:
     * [x] IE
     * [x] Firefox
     * [x] Chrome
-    * [] Icon, màu sắc,...
+    * [ ] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
